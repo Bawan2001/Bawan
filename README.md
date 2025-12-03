@@ -57,8 +57,8 @@
 
 ## <h3 align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="30" height="30" style="margin-right: 20px;">&nbsp;&nbsp;***Connect with me*** :</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rashmidulashani" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="rashmidulashani" height="50" width="50" /></a>
-  <a href="https://www.facebook.com/rash.mi.77398143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashmidulashani" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/bawantha-dissanayake-8962532a1/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="rashmidulashani" height="50" width="50" /></a>
+  <a href="https://www.facebook.com/rash.mi.77398143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Bawantha Dissanyaka" height="50" width="50" /></a>
   <a href="https://www.youtube.com/@rash_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rashcode" height="50" width="50" /></a>
 </p>
 
